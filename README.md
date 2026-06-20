@@ -1,72 +1,88 @@
-# 🛡️ MyNetShield — Intelligent Network Security System
+# MyNetShield — Intelligent Network Security System
 
-MyNetShield is a privacy-focused network security and monitoring system designed to detect vulnerabilities in home networks using intelligent and lightweight AI techniques.
+MyNetShield is a local-first network security and monitoring system designed to detect anomalies, analyze network activity, and improve cybersecurity awareness in home environments.
 
-It aims to make cybersecurity more accessible by combining network analysis, machine learning, and offline AI assistance in a local environment.
-
----
-
-## 🎯 Project Objective
-
-This project addresses the growing vulnerability of home networks by providing a simple, local, and intelligent security solution that does not depend on complex cloud infrastructure.
-
-The goal is to detect anomalies, identify connected devices, and improve network security awareness for non-expert users.
+The system combines network traffic analysis, machine learning, and offline AI assistance to provide a privacy-focused and lightweight cybersecurity solution without relying on cloud services.
 
 ---
 
-## ⚙️ Key Features
+## Project Overview
 
-- 🔍 Real-time network scanning and device detection  
-- 🤖 Anomaly detection using Machine Learning (Isolation Forest)  
-- 💬 Offline AI assistant for security analysis (Ollama / Phi-3)  
-- 🔒 Privacy-first architecture (fully local processing)  
-- ⚡ Lightweight and fast detection pipeline  
+Modern home networks are increasingly exposed to security risks, while most existing solutions are either too complex or dependent on external cloud infrastructure.
+
+MyNetShield addresses this issue by offering a local, intelligent, and privacy-preserving system that simplifies network monitoring and anomaly detection for non-technical users.
 
 ---
 
-## 🛠️ Tech Stack
+## Core Features
+
+- Network scanning and device identification in local networks  
+- Real-time traffic analysis using packet inspection  
+- Machine learning-based anomaly detection (Isolation Forest)  
+- Offline AI assistant for security interpretation and explanations  
+- Fully local processing with privacy-by-design architecture  
+
+---
+
+## System Architecture
+
+The system is structured into three main layers:
+
+### 1. Network Monitoring Layer
+Responsible for capturing and analyzing network traffic and identifying connected devices.
+
+### 2. Intelligence Layer
+Applies machine learning models to detect abnormal behavior and potential threats.
+
+### 3. Assistance Layer
+Provides offline explanations and security insights using a local AI model.
+
+---
+
+## Technologies Used
 
 - Python  
-- Scapy (network packet analysis)  
-- Machine Learning (Isolation Forest - scikit-learn)  
-- JavaScript (communication layer)  
-- Ollama / Phi-3 (local AI assistant)  
+- Scapy (network analysis)  
+- Scikit-learn (machine learning)  
+- JavaScript (integration layer)  
+- Ollama / Phi-3 (offline AI model)  
 - REST APIs  
 - Git / GitHub  
 
 ---
 
-## 🧠 Key Concepts Used
+## Key Concepts
 
-- Network traffic analysis  
-- Intrusion/anomaly detection  
-- Machine learning classification (unsupervised learning)  
-- System architecture design  
-- Secure local processing (Privacy by Design)  
+- Network security and traffic analysis  
+- Unsupervised machine learning (anomaly detection)  
+- System design and modular architecture  
+- Privacy-by-design principles  
+- Local AI inference  
 
 ---
 
-## ⚡ Challenges Faced
+## Challenges
 
-- Communication between JavaScript and Python components  
-- Building a safe demo environment without affecting real networks  
+- Communication between Python and JavaScript components  
+- Designing a safe testing environment for network analysis  
 - Reducing false positives in anomaly detection  
-- Making installation simple for non-technical users  
+- Ensuring performance in real-time processing  
+- Simplifying system usability and installation  
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
-- Improve machine learning detection accuracy  
-- Add support for more operating systems  
-- Enhance visualization dashboard  
-- Expand AI assistant capabilities  
-- Improve real-time performance  
+- Improve detection accuracy using hybrid models  
+- Add graphical dashboard for real-time monitoring  
+- Expand compatibility across operating systems  
+- Enhance AI assistant reasoning capabilities  
+- Optimize system performance for larger networks  
 
 ---
 
-## 📫 Contact
+## Contact
 
-- 💼 LinkedIn: https://www.linkedin.com/in/imane-zouyghy-116695271  
-- 💻 GitHub: https://github.com/imanezouyghy05  
-- 📧 Email: imanzouyghy05@gmail.com  
+LinkedIn: https://www.linkedin.com/in/imane-zouyghy-116695271  
+GitHub: https://github.com/imanezouyghy05  
+Email: imanzouyghy05@gmail.com  
