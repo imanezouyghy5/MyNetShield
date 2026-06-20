@@ -1,0 +1,172 @@
+2026-03-19 02:48:42,509 - waitress - WARNING - SECRET_KEY not found in environment. Using default (not recommended for production).
+2026-03-19 02:49:23,901 - app.scanner.port_scanner - INFO - Nmap trouvé: C:\Program Files (x86)\Nmap\nmap.exe
+2026-03-19 02:49:23,942 - app.security.persistence - INFO - Database initialized: netshield_security.db
+2026-03-19 02:49:23,942 - app.scanner.network_scanner - INFO - SQL database integrated into NetworkScanner
+2026-03-19 02:49:24,047 - app.ml.ml_anomaly - INFO - ✅ ML Model loaded successfully.
+2026-03-19 02:49:28,146 - app.security.persistence - INFO - Database initialized: C:\Users\DELL\Documents\MyNetShield\data\netshield_security.db
+2026-03-19 02:49:28,456 - app.security.firewall_manager - INFO - FirewallManager initialized - OS: Windows, Available: True
+2026-03-19 02:49:28,537 - app.ml.ml_anomaly - INFO - ✅ ML Model loaded successfully.
+2026-03-19 02:49:28,538 - app.security.security_analyzer - INFO - ✅ ML Anomaly Detection enabled
+2026-03-19 02:49:29,052 - app.security.persistence - INFO - Database initialized: netshield_security.db
+2026-03-19 02:49:29,087 - waitress - INFO - Starting MyNetShield Production Server on port 5173...
+2026-03-19 02:49:29,088 - waitress - INFO - Serving frontend from app/dashboard/frontend/dist
+2026-03-19 02:49:29,103 - waitress - INFO - Serving on http://0.0.0.0:5173
+2026-03-19 04:15:04,212 - waitress - WARNING - SECRET_KEY not found in environment. Using default (not recommended for production).
+2026-03-19 04:15:31,660 - app.scanner.port_scanner - INFO - Nmap trouvé: C:\Program Files (x86)\Nmap\nmap.exe
+2026-03-19 04:15:31,708 - app.security.persistence - INFO - Database initialized: netshield_security.db
+2026-03-19 04:15:31,709 - app.scanner.network_scanner - INFO - SQL database integrated into NetworkScanner
+2026-03-19 04:15:31,780 - app.ml.ml_anomaly - INFO - ✅ ML Model loaded successfully.
+2026-03-19 04:15:35,875 - app.security.persistence - INFO - Database initialized: C:\Users\DELL\Documents\MyNetShield\data\netshield_security.db
+2026-03-19 04:15:36,084 - app.security.firewall_manager - INFO - FirewallManager initialized - OS: Windows, Available: True
+2026-03-19 04:15:36,130 - app.ml.ml_anomaly - INFO - ✅ ML Model loaded successfully.
+2026-03-19 04:15:36,131 - app.security.security_analyzer - INFO - ✅ ML Anomaly Detection enabled
+2026-03-19 04:15:36,567 - app.security.persistence - INFO - Database initialized: netshield_security.db
+2026-03-19 04:15:36,589 - waitress - INFO - Starting MyNetShield Production Server on port 5173...
+2026-03-19 04:15:36,589 - waitress - INFO - Serving frontend from app/dashboard/frontend/dist
+2026-03-19 04:15:36,597 - waitress - INFO - Serving on http://0.0.0.0:5173
+2026-03-20 23:40:59,659 - waitress - WARNING - SECRET_KEY not found in environment. Using default (not recommended for production).
+2026-03-20 23:41:27,319 - app.scanner.port_scanner - INFO - Nmap trouvé: C:\Program Files (x86)\Nmap\nmap.exe
+2026-03-20 23:41:27,367 - app.security.persistence - INFO - Database initialized: netshield_security.db
+2026-03-20 23:41:27,368 - app.scanner.network_scanner - INFO - SQL database integrated into NetworkScanner
+2026-03-20 23:41:27,443 - app.ml.ml_anomaly - INFO - ✅ ML Model loaded successfully.
+2026-03-20 23:41:31,521 - app.security.persistence - INFO - Database initialized: C:\Users\DELL\Documents\MyNetShield\data\netshield_security.db
+2026-03-20 23:41:32,122 - app.security.firewall_manager - INFO - FirewallManager initialized - OS: Windows, Available: True
+2026-03-20 23:41:32,168 - app.ml.ml_anomaly - INFO - ✅ ML Model loaded successfully.
+2026-03-20 23:41:32,169 - app.security.security_analyzer - INFO - ✅ ML Anomaly Detection enabled
+2026-03-20 23:41:32,633 - app.security.persistence - INFO - Database initialized: netshield_security.db
+2026-03-20 23:41:32,660 - waitress - INFO - Starting MyNetShield Production Server on port 5173...
+2026-03-20 23:41:32,660 - waitress - INFO - Serving frontend from app/dashboard/frontend/dist
+2026-03-20 23:41:32,667 - waitress - INFO - Serving on http://0.0.0.0:5173
+2026-03-21 01:33:46,349 - waitress - WARNING - SECRET_KEY not found in environment. Using default (not recommended for production).
+2026-03-21 01:34:13,670 - app.scanner.port_scanner - INFO - Nmap trouvé: C:\Program Files (x86)\Nmap\nmap.exe
+2026-03-21 01:34:13,704 - app.security.persistence - INFO - Database initialized: netshield_security.db
+2026-03-21 01:34:13,704 - app.scanner.network_scanner - INFO - SQL database integrated into NetworkScanner
+2026-03-21 01:34:13,771 - app.ml.ml_anomaly - INFO - ✅ ML Model loaded successfully.
+2026-03-21 01:34:17,912 - app.security.persistence - INFO - Database initialized: C:\Users\DELL\Documents\MyNetShield\data\netshield_security.db
+2026-03-21 01:34:18,213 - app.security.firewall_manager - INFO - FirewallManager initialized - OS: Windows, Available: True
+2026-03-21 01:34:18,285 - app.ml.ml_anomaly - INFO - ✅ ML Model loaded successfully.
+2026-03-21 01:34:18,286 - app.security.security_analyzer - INFO - ✅ ML Anomaly Detection enabled
+2026-03-21 01:34:18,690 - app.security.persistence - INFO - Database initialized: netshield_security.db
+2026-03-21 01:34:18,709 - waitress - INFO - Starting MyNetShield Production Server on port 5173...
+2026-03-21 01:34:18,709 - waitress - INFO - Serving frontend from app/dashboard/frontend/dist
+2026-03-21 01:34:18,713 - waitress - INFO - Serving on http://0.0.0.0:5173
+2026-03-21 01:51:33,564 - app.scanner.network_scanner - INFO - === FULL NETWORK SCAN ===
+2026-03-21 01:51:34,485 - app.scanner.network_scanner - INFO - [SCAN] Scan Hybride sur 192.168.8.0/24
+2026-03-21 01:51:43,012 - app.scanner.network_scanner - INFO - [mDNS] 0 identités découvertes
+2026-03-21 01:51:43,034 - app.scanner.network_scanner - INFO - [PING SWEEP] Warming ARP cache for 192.168.8.1-254...
+2026-03-21 01:51:52,460 - app.scanner.network_scanner - INFO - [PING SWEEP] Done
+2026-03-21 01:52:13,217 - app.scanner.port_scanner - INFO - Scan Nmap avancé de 192.168.8.192
+2026-03-21 01:52:13,216 - app.scanner.port_scanner - INFO - Scan Nmap avancé de 192.168.8.1
+2026-03-21 01:52:13,224 - app.scanner.port_scanner - INFO - Scan Nmap avancé de 192.168.8.133
+2026-03-21 01:52:13,224 - app.scanner.port_scanner - INFO - Scan Nmap avancé de 192.168.8.182
+2026-03-21 01:52:16,880 - app.scanner.port_scanner - INFO - Scan Nmap avancé de 192.168.8.134
+2026-03-21 01:52:16,967 - app.scanner.port_scanner - INFO - Scan Nmap avancé de 192.168.8.165
+2026-03-21 01:52:17,171 - app.scanner.port_scanner - INFO - Scan Nmap avancé de 192.168.8.160
+2026-03-21 01:52:23,825 - app.scanner.port_scanner - INFO - Scan Nmap avancé de 192.168.8.1
+2026-03-21 01:52:23,825 - app.scanner.port_scanner - INFO - Scan Nmap avancé de 192.168.8.133
+2026-03-21 01:52:27,101 - app.scanner.port_scanner - INFO - Scan Nmap avancé de 192.168.8.160
+2026-03-21 01:52:27,511 - app.scanner.port_scanner - INFO - Scan Nmap avancé de 192.168.8.165
+2026-03-21 01:52:27,614 - app.scanner.port_scanner - INFO - Scan Nmap avancé de 192.168.8.134
+2026-03-21 01:52:34,420 - app.security.security_analyzer - INFO - 🔍 Starting comprehensive security analysis (ML enabled: True)
+2026-03-21 01:52:34,448 - app.security.security_analyzer - WARNING - Skipping invalid device: Invalid IP address: Hors ligne (IP réattribuée)
+2026-03-21 01:52:34,449 - app.security.security_analyzer - WARNING - Skipping invalid device: Invalid IP address: Hors ligne (IP réattribuée)
+2026-03-21 01:52:34,499 - app.security.security_analyzer - WARNING - 🤖 ML Anomaly detected on 192.168.8.192: Statistical deviation detected
+2026-03-21 01:52:34,563 - app.security.security_analyzer - INFO - ✅ Analysis completed in 0.13s - Score: 59.4/100 (C-) - ML Anomalies: 1
+2026-03-21 01:52:34,878 - app.dashboard.routes - INFO - ✅ Security analysis complete. Score: 59.4
+2026-03-21 01:53:04,227 - app.security.firewall_manager - INFO - ✅ IP 192.168.8.182 blocked: Blocked with Windows Firewall
+2026-03-21 02:36:44,742 - waitress - WARNING - SECRET_KEY not found in environment. Using default (not recommended for production).
+2026-03-21 02:36:51,001 - app.scanner.port_scanner - INFO - Nmap trouvé: C:\Program Files (x86)\Nmap\nmap.exe
+2026-03-21 02:36:51,031 - app.security.persistence - INFO - Database initialized: netshield_security.db
+2026-03-21 02:36:51,032 - app.scanner.network_scanner - INFO - SQL database integrated into NetworkScanner
+2026-03-21 02:36:51,099 - app.ml.ml_anomaly - INFO - ✅ ML Model loaded successfully.
+2026-03-21 02:36:55,187 - app.security.persistence - INFO - Database initialized: C:\Users\DELL\Documents\MyNetShield\data\netshield_security.db
+2026-03-21 02:36:55,379 - app.security.firewall_manager - INFO - FirewallManager initialized - OS: Windows, Available: True
+2026-03-21 02:36:55,417 - app.ml.ml_anomaly - INFO - ✅ ML Model loaded successfully.
+2026-03-21 02:36:55,418 - app.security.security_analyzer - INFO - ✅ ML Anomaly Detection enabled
+2026-03-21 02:36:55,756 - app.security.persistence - INFO - Database initialized: netshield_security.db
+2026-03-21 02:36:55,787 - waitress - INFO - Starting MyNetShield Production Server on port 5173...
+2026-03-21 02:36:55,787 - waitress - INFO - Serving frontend from app/dashboard/frontend/dist
+2026-03-21 02:36:55,808 - waitress - INFO - Serving on http://0.0.0.0:5173
+2026-03-21 02:45:52,210 - app.scanner.network_scanner - INFO - === FULL NETWORK SCAN ===
+2026-03-21 02:45:52,250 - app.scanner.network_scanner - INFO - [SCAN] Scan Hybride sur 192.168.8.0/24
+2026-03-21 02:45:58,392 - app.scanner.network_scanner - INFO - [mDNS] 0 identités découvertes
+2026-03-21 02:45:58,398 - app.scanner.network_scanner - INFO - [PING SWEEP] Warming ARP cache for 192.168.8.1-254...
+2026-03-21 02:46:05,517 - app.scanner.network_scanner - INFO - [PING SWEEP] Done
+2026-03-21 02:46:23,616 - app.scanner.port_scanner - INFO - Scan Nmap avancé de 192.168.8.192
+2026-03-21 02:46:23,617 - app.scanner.port_scanner - INFO - Scan Nmap avancé de 192.168.8.133
+2026-03-21 02:46:23,630 - app.scanner.port_scanner - INFO - Scan Nmap avancé de 192.168.8.1
+2026-03-21 02:46:23,648 - app.scanner.port_scanner - INFO - Scan Nmap avancé de 192.168.8.182
+2026-03-21 02:46:26,744 - app.scanner.port_scanner - INFO - Scan Nmap avancé de 192.168.8.160
+2026-03-21 02:46:26,794 - app.scanner.port_scanner - INFO - Scan Nmap avancé de 192.168.8.134
+2026-03-21 02:46:33,669 - app.scanner.port_scanner - INFO - Scan Nmap avancé de 192.168.8.1
+2026-03-21 02:46:33,670 - app.scanner.port_scanner - INFO - Scan Nmap avancé de 192.168.8.133
+2026-03-21 02:46:33,676 - app.scanner.port_scanner - INFO - Scan Nmap avancé de 192.168.8.182
+2026-03-21 02:46:36,755 - app.scanner.port_scanner - INFO - Scan Nmap avancé de 192.168.8.160
+2026-03-21 02:46:37,021 - app.scanner.port_scanner - INFO - Scan Nmap avancé de 192.168.8.134
+2026-03-21 02:46:46,029 - app.security.security_analyzer - INFO - 🔍 Starting comprehensive security analysis (ML enabled: True)
+2026-03-21 02:46:46,064 - app.security.security_analyzer - WARNING - Skipping invalid device: Invalid IP address: Hors ligne (IP réattribuée)
+2026-03-21 02:46:46,066 - app.security.security_analyzer - WARNING - Skipping invalid device: Invalid IP address: Hors ligne (IP réattribuée)
+2026-03-21 02:46:46,269 - app.security.security_analyzer - WARNING - 🤖 ML Anomaly detected on 192.168.8.192: Statistical deviation detected
+2026-03-21 02:46:46,356 - app.security.security_analyzer - INFO - ✅ Analysis completed in 0.32s - Score: 59.4/100 (C-) - ML Anomalies: 1
+2026-03-21 02:46:47,025 - app.dashboard.routes - INFO - ✅ Security analysis complete. Score: 59.4
+2026-03-21 02:59:27,241 - waitress - WARNING - SECRET_KEY not found in environment. Using default (not recommended for production).
+2026-03-21 02:59:33,233 - app.scanner.port_scanner - INFO - Nmap trouvé: C:\Program Files (x86)\Nmap\nmap.exe
+2026-03-21 02:59:33,242 - app.security.persistence - INFO - Database initialized: netshield_security.db
+2026-03-21 02:59:33,242 - app.scanner.network_scanner - INFO - SQL database integrated into NetworkScanner
+2026-03-21 02:59:33,277 - app.ml.ml_anomaly - INFO - ✅ ML Model loaded successfully.
+2026-03-21 02:59:37,395 - app.security.persistence - INFO - Database initialized: C:\Users\DELL\Documents\MyNetShield\data\netshield_security.db
+2026-03-21 02:59:37,579 - app.security.firewall_manager - INFO - FirewallManager initialized - OS: Windows, Available: True
+2026-03-21 02:59:37,609 - app.ml.ml_anomaly - INFO - ✅ ML Model loaded successfully.
+2026-03-21 02:59:37,609 - app.security.security_analyzer - INFO - ✅ ML Anomaly Detection enabled
+2026-03-21 02:59:37,886 - app.security.persistence - INFO - Database initialized: netshield_security.db
+2026-03-21 02:59:37,902 - waitress - INFO - Starting MyNetShield Production Server on port 5173...
+2026-03-21 02:59:37,903 - waitress - INFO - Serving frontend from app/dashboard/frontend/dist
+2026-03-21 02:59:37,908 - waitress - INFO - Serving on http://0.0.0.0:5173
+2026-03-21 03:06:04,260 - waitress - WARNING - SECRET_KEY not found in environment. Using default (not recommended for production).
+2026-03-21 03:06:10,994 - app.scanner.port_scanner - INFO - Nmap trouvé: C:\Program Files (x86)\Nmap\nmap.exe
+2026-03-21 03:06:11,023 - app.security.persistence - INFO - Database initialized: netshield_security.db
+2026-03-21 03:06:11,023 - app.scanner.network_scanner - INFO - SQL database integrated into NetworkScanner
+2026-03-21 03:06:11,055 - app.ml.ml_anomaly - INFO - ✅ ML Model loaded successfully.
+2026-03-21 03:06:15,172 - app.security.persistence - INFO - Database initialized: C:\Users\DELL\Documents\MyNetShield\data\netshield_security.db
+2026-03-21 03:06:15,394 - app.security.firewall_manager - INFO - FirewallManager initialized - OS: Windows, Available: True
+2026-03-21 03:06:15,421 - app.ml.ml_anomaly - INFO - ✅ ML Model loaded successfully.
+2026-03-21 03:06:15,422 - app.security.security_analyzer - INFO - ✅ ML Anomaly Detection enabled
+2026-03-21 03:06:15,735 - app.security.persistence - INFO - Database initialized: netshield_security.db
+2026-03-21 03:06:15,756 - waitress - INFO - Starting MyNetShield Production Server on port 5173...
+2026-03-21 03:06:15,757 - waitress - INFO - Serving frontend from app/dashboard/frontend/dist
+2026-03-21 03:06:15,763 - waitress - INFO - Serving on http://0.0.0.0:5173
+2026-03-21 03:08:38,472 - app.scanner.network_scanner - INFO - === FULL NETWORK SCAN ===
+2026-03-21 03:08:38,484 - app.scanner.network_scanner - INFO - [SCAN] Scan Hybride sur 192.168.8.0/24
+2026-03-21 03:08:44,551 - app.scanner.network_scanner - INFO - [mDNS] 0 identités découvertes
+2026-03-21 03:08:44,558 - app.scanner.network_scanner - INFO - [PING SWEEP] Warming ARP cache for 192.168.8.1-254...
+2026-03-21 03:08:52,069 - app.scanner.network_scanner - INFO - [PING SWEEP] Done
+2026-03-21 03:09:10,242 - app.scanner.port_scanner - INFO - Scan Nmap avancé de 192.168.8.192
+2026-03-21 03:09:10,253 - app.scanner.port_scanner - INFO - Scan Nmap avancé de 192.168.8.133
+2026-03-21 03:09:10,253 - app.scanner.port_scanner - INFO - Scan Nmap avancé de 192.168.8.182
+2026-03-21 03:09:10,272 - app.scanner.port_scanner - INFO - Scan Nmap avancé de 192.168.8.1
+2026-03-21 03:09:13,785 - app.scanner.port_scanner - INFO - Scan Nmap avancé de 192.168.8.134
+2026-03-21 03:09:14,135 - app.scanner.port_scanner - INFO - Scan Nmap avancé de 192.168.8.160
+2026-03-21 03:09:21,980 - app.scanner.port_scanner - INFO - Scan Nmap avancé de 192.168.8.1
+2026-03-21 03:09:21,981 - app.scanner.port_scanner - INFO - Scan Nmap avancé de 192.168.8.133
+2026-03-21 03:09:21,995 - app.scanner.port_scanner - INFO - Scan Nmap avancé de 192.168.8.182
+2026-03-21 03:09:25,923 - app.scanner.port_scanner - INFO - Scan Nmap avancé de 192.168.8.160
+2026-03-21 03:09:28,038 - app.scanner.port_scanner - INFO - Scan Nmap avancé de 192.168.8.134
+2026-03-21 03:09:38,447 - app.security.security_analyzer - INFO - 🔍 Starting comprehensive security analysis (ML enabled: True)
+2026-03-21 03:09:38,465 - app.security.security_analyzer - WARNING - Skipping invalid device: Invalid IP address: Hors ligne (IP réattribuée)
+2026-03-21 03:09:38,468 - app.security.security_analyzer - WARNING - Skipping invalid device: Invalid IP address: Hors ligne (IP réattribuée)
+2026-03-21 03:09:38,681 - app.security.security_analyzer - WARNING - 🤖 ML Anomaly detected on 192.168.8.192: Statistical deviation detected
+2026-03-21 03:09:38,785 - app.security.security_analyzer - INFO - ✅ Analysis completed in 0.34s - Score: 59.4/100 (C-) - ML Anomalies: 1
+2026-03-21 03:09:39,565 - app.dashboard.routes - INFO - ✅ Security analysis complete. Score: 59.4
+2026-03-21 12:47:22,116 - waitress - WARNING - SECRET_KEY not found in environment. Using default (not recommended for production).
+2026-03-21 12:47:32,419 - app.scanner.port_scanner - INFO - Nmap trouvé: C:\Program Files (x86)\Nmap\nmap.exe
+2026-03-21 12:47:32,453 - app.security.persistence - INFO - Database initialized: netshield_security.db
+2026-03-21 12:47:32,453 - app.scanner.network_scanner - INFO - SQL database integrated into NetworkScanner
+2026-03-21 12:47:32,498 - app.ml.ml_anomaly - INFO - ✅ ML Model loaded successfully.
+2026-03-21 12:47:36,583 - app.security.persistence - INFO - Database initialized: C:\Users\DELL\Documents\MyNetShield\data\netshield_security.db
+2026-03-21 12:47:36,801 - app.security.firewall_manager - INFO - FirewallManager initialized - OS: Windows, Available: True
+2026-03-21 12:47:36,837 - app.ml.ml_anomaly - INFO - ✅ ML Model loaded successfully.
+2026-03-21 12:47:36,837 - app.security.security_analyzer - INFO - ✅ ML Anomaly Detection enabled
+2026-03-21 12:47:37,270 - app.security.persistence - INFO - Database initialized: netshield_security.db
+2026-03-21 12:47:37,305 - waitress - INFO - Starting MyNetShield Production Server on port 5173...
+2026-03-21 12:47:37,306 - waitress - INFO - Serving frontend from app/dashboard/frontend/dist
+2026-03-21 12:47:37,320 - waitress - INFO - Serving on http://0.0.0.0:5173
